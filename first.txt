@@ -1,2 +1,5 @@
 gitの練習
-kakikae
+
+
+・git add
+・git commit
