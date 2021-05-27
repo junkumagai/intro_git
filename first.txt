@@ -7,3 +7,6 @@ gitの練習
 ・git status
 ・git diff
 git remote
+
+
+メモのかわりにつかってしまう
